@@ -1,2 +1,6 @@
 # aidatadriven
-Backedn .Net System Designing Event Driven
+Backend .Net System Designing Event Driven
+
+# commands
+
+dotnet watch run

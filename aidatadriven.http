@@ -1,0 +1,6 @@
+@aidatadriven_HostAddress = http://localhost:5208
+
+GET {{aidatadriven_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
